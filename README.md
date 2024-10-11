@@ -1,1 +1,7 @@
 # This is a Ramp Challenge
+
+Please type the following commands to start the application:
+````
+npm install
+npm run dev
+````
